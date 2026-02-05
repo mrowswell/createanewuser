@@ -25,16 +25,16 @@ Select the Organisational Unit and click the icon to create a new user:  <br/>
 <img src="https://imagur.org/i/T4PE67lK" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter the desired name and email address: <br/>
+<img src="https://imagur.org/i/NwOzlrnd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter password:  <br/>
+<img src="https://imagur.org/i/vSH9xGJY" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click finish to complete:  <br/>
+<img src="https://imagur.org/i/hpG4tud7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
